@@ -5,3 +5,6 @@
  What is the store_path?
 
  Check User devise preferences
+
+ Does a create_table migration still need to include t.belongs_to if the model states the relationship as well?
+ 
